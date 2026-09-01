@@ -1,0 +1,24 @@
+ANJALI RAO
+
+Email: anjali.rao@example.com
+Location: Bengaluru, India
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+Bangalore University
+2025
+
+SKILLS
+Python, Machine Learning, NLP, SQL, Pandas, NumPy, Git
+
+EXPERIENCE
+Machine Learning Intern
+- Built classification and regression models.
+- Performed NLP experiments using Python.
+- Worked with Pandas and NumPy.
+- Created machine learning prototypes.
+
+PROJECTS
+Spam Email Classification
+- Built an NLP classification model.
+- Used Python and machine learning techniques.

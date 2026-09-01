@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Environment variables / API keys
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Generated screening results
+src/output/
+
+# Streamlit
+.streamlit/secrets.toml

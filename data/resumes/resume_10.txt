@@ -1,0 +1,33 @@
+MEERA KRISHNA
+
+Email: meera.krishna@example.com
+Location: Bengaluru, India
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+ABC University
+2026
+
+SKILLS
+Python, Machine Learning, Natural Language Processing, NLP,
+Data Analysis, Generative AI, SQL, Pandas, NumPy, Git, LLM APIs
+
+EXPERIENCE
+AI Research Intern — Future AI Labs
+10 months
+
+- Developed machine learning and NLP prototypes.
+- Built LLM-powered applications using Python.
+- Developed RAG applications using embeddings and vector databases.
+- Worked with SQL, Pandas and NumPy for data analysis.
+- Designed prompt engineering experiments.
+- Built APIs using FastAPI.
+- Containerised applications using Docker.
+- Used Git for collaborative development.
+- Evaluated AI model performance and documented experiments.
+
+PROJECTS
+RAG-based Question Answering System
+- Built a RAG application using embeddings.
+- Integrated an LLM API.
+- Used Python and vector databases.

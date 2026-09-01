@@ -1,0 +1,24 @@
+PRIYA SHARMA
+
+Email: priya.sharma@example.com
+Location: Bengaluru, India
+
+EDUCATION
+Bachelor of Engineering in Artificial Intelligence
+ABC Institute
+2026
+
+SKILLS
+Python, Machine Learning, NLP, Generative AI, SQL, Git
+
+EXPERIENCE
+AI Intern
+- Developed machine learning models.
+- Worked on NLP classification tasks.
+- Built basic Generative AI applications.
+- Used Python and SQL for data processing.
+
+PROJECTS
+AI Chatbot
+- Developed a simple AI chatbot.
+- Used Python and natural language processing.

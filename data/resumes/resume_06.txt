@@ -1,0 +1,23 @@
+VIKAS NAIR
+
+Email: vikas.nair@example.com
+Location: Bengaluru, India
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+XYZ University
+2026
+
+SKILLS
+Java, C++, SQL, Git, HTML, CSS
+
+EXPERIENCE
+Software Engineering Intern
+- Developed basic web applications.
+- Worked with SQL databases.
+- Used Git for source control.
+- Performed software testing.
+
+PROJECTS
+Web Application
+- Developed a basic web application using HTML and CSS.

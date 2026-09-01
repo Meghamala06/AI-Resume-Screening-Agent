@@ -1,0 +1,24 @@
+ROHAN DESAI
+
+Email: rohan.desai@example.com
+Location: Bengaluru, India
+
+EDUCATION
+Bachelor of Engineering in Electronics
+XYZ University
+2025
+
+SKILLS
+C, C++, MATLAB, Embedded Systems, Git
+
+EXPERIENCE
+Embedded Systems Intern
+- Worked on microcontroller projects.
+- Developed embedded applications.
+- Performed hardware testing.
+- Used Git for project management.
+
+PROJECTS
+Smart Monitoring System
+- Developed an embedded monitoring prototype.
+- Tested hardware and software components.

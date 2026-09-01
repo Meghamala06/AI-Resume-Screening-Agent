@@ -1,0 +1,24 @@
+SNEHA IYER
+
+Email: sneha.iyer@example.com
+Location: Bengaluru, India
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+ABC University
+2026
+
+SKILLS
+Python, Machine Learning, Pandas, SQL, Git
+
+EXPERIENCE
+ML Project Intern
+- Developed machine learning models using Python.
+- Performed data preprocessing.
+- Used Pandas and SQL.
+- Evaluated classification models.
+
+PROJECTS
+House Price Prediction
+- Built a machine learning model using Python.
+- Used Pandas for data preprocessing.

@@ -1,0 +1,24 @@
+RAHUL KUMAR
+
+Email: rahul.kumar@example.com
+Location: Bengaluru, India
+
+EDUCATION
+Bachelor of Engineering in Information Science
+XYZ University
+2026
+
+SKILLS
+Python, SQL, Pandas, NumPy, Machine Learning, Git
+
+EXPERIENCE
+Data Analyst Intern
+- Worked with Python and SQL for data analysis.
+- Created reports using Pandas.
+- Performed data cleaning and exploratory analysis.
+- Used Git for version control.
+
+PROJECTS
+Sales Data Analysis
+- Analysed sales data using Python.
+- Created reports using Pandas and SQL.

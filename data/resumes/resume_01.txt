@@ -1,0 +1,25 @@
+KAVYA SHETTY
+
+Email: kavya.shetty@example.com
+Location: Bengaluru, India
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+ABC University
+2026
+
+SKILLS
+Python, Machine Learning, Pandas, NumPy, SQL, Git, Statistics
+
+EXPERIENCE
+Student Project Experience
+- Worked on basic machine learning projects.
+- Used Python and Pandas for data analysis.
+- Applied classification algorithms.
+- Created visualisations for datasets.
+- Performed basic data preprocessing.
+
+PROJECTS
+Student Performance Prediction
+- Built a machine learning model using Python.
+- Used Pandas and NumPy for data preparation.

@@ -1,0 +1,24 @@
+ARJUN REDDY
+
+Email: arjun.reddy@example.com
+Location: Bengaluru, India
+
+EDUCATION
+Bachelor of Engineering in Computer Science
+VTU
+2026
+
+SKILLS
+Python, Data Analysis, SQL, Excel, Pandas, NumPy
+
+EXPERIENCE
+Data Analytics Intern
+- Cleaned and analysed datasets using Python.
+- Used SQL for querying databases.
+- Created dashboards and reports.
+- Performed exploratory data analysis.
+
+PROJECTS
+Customer Data Analysis
+- Analysed customer datasets using Python.
+- Generated business reports.

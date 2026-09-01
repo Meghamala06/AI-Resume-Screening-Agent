@@ -1,0 +1,24 @@
+NEHA PATEL
+
+Email: neha.patel@example.com
+Location: Bengaluru, India
+
+EDUCATION
+Bachelor of Engineering in Information Science
+ABC University
+2026
+
+SKILLS
+Python, Statistics, Excel, SQL, Data Analysis
+
+EXPERIENCE
+Data Science Student
+- Performed statistical analysis.
+- Used Python for data cleaning.
+- Worked with SQL databases.
+- Created reports from business datasets.
+
+PROJECTS
+Student Data Analysis
+- Analysed student performance data.
+- Created statistical reports using Python.
